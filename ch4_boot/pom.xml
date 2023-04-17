@@ -59,6 +59,12 @@
 			<scope>test</scope>
 		</dependency>
 		
+			<dependency>
+			<groupId>com.oracle.ojdbc</groupId>
+			<artifactId>orai18n</artifactId>
+			<version>19.3.0.0</version>
+			</dependency>
+		
 				<!-- JSP를 사용하기 위해 추가한 의존성 -->
 		<dependency>
 		    <groupId>javax.servlet</groupId>
